@@ -1,0 +1,51 @@
+[
+    {
+        "id": 2,
+        "text": "China",
+        "children": [
+            {
+                "id": 2001,
+                "text": "Guangdong",
+                "children": [
+                    {
+                        "id": 20011,
+                        "text": "深圳",
+                        "children": [
+                            {
+                                "id": 200111,
+                                "text": "Nanshan",
+                                "leaf": true
+                            },
+                            {
+                                "id": 200112,
+                                "text": "Futian",
+                                "leaf": true
+                            },
+                            {
+                                "id": 200113,
+                                "text": "Baoan",
+                                "leaf": true
+                            }, 
+                            {
+                                "id": 200114,
+                                "text": "Luohu",
+                                "leaf": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "America",
+        "children": [
+            {
+                "id": 3001,
+                "text": "NewYork",
+                "leaf": true
+            }
+        ]
+    }
+]

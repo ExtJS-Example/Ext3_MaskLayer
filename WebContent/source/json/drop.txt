@@ -1,0 +1,43 @@
+[
+    {
+        "id": 10001,
+        "text": "Node1(TreePanel2)",
+        "leaf": true
+    },
+    {
+        "id": 10002,
+        "text": "Node2(TreePanel2)",
+        "children": [
+            {
+                "id": 100021,
+                "text": "Node21(TreePanel2)",
+                "leaf": true
+            },
+            {
+                "id": 100022,
+                "text": "Node22(TreePanel2)",
+                "leaf": true
+            },
+            {
+                "id": 100023,
+                "text": "Node23(TreePanel2)",
+                "leaf": true
+            },
+            {
+                "id": 100024,
+                "text": "Node24(TreePanel2)",
+                "leaf": true
+            },
+            {
+                "id": 100025,
+                "text": "Node25(TreePanel2)",
+                "leaf": true
+            }
+        ]
+    },
+    {
+        "id": 10003,
+        "text": "Node3(TreePanel2)",
+        "leaf": true
+    }
+]
